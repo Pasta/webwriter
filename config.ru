@@ -1,0 +1,3 @@
+
+require './webwriter'
+run WebWriter
